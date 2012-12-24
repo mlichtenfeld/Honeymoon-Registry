@@ -1,6 +1,6 @@
 <cfscript>
 // datasource and dialect must be set for application to work
-orm_datasource="honeymoon";
+orm_datasource="";
 orm_dialect="MySQL"; //mysql,MicrosoftSQLServer, etc
 
 // paypal settings
